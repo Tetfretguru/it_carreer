@@ -2,5 +2,5 @@ Esta es mi biografia.
 Mi nombre es Martin y estoy con Gabriel a través de Meet.
 
 Esta siguiente linea la hicimos en el branch "cambios":
-Estamos utilizando git, y pr
+Estamos utilizando git, y 
 próximamente vamos a usar GitHub.
