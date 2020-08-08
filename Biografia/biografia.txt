@@ -1,5 +1,6 @@
 Esta es mi biografia.
-Mi nombre es Martin y estoycon Gabriel a través de Meet.
+Mi nombre es Martin y estoy con Gabriel a través de Meet.
 
 Esta siguiente linea la hicimos en el branch "cambios":
-Estamos utilizando git.
+Estamos utilizando git, y pr
+próximamente vamos a usar GitHub.
